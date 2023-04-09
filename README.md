@@ -2,7 +2,7 @@
 
 ## Hi, i am Junior QA Engineer. I am currently completing a Professional Course: Functional Testing by IT Academy and looking for a job.
 ## Below you can see some examples of my test documentation, it is a project that i did on my courses. [Application link](https://docs.google.com/document/d/12UdfB-XcokT5DZ0-ktVDVPJUGc2DE1XmfLiuL1E1EHY/edit) 
-[My CV](https://drive.google.com/drive/u/2/folders/1nK5KDnTTRz_lLjd1nRpji4aY9lDwBeoW)
+#[My CV](https://drive.google.com/drive/u/2/folders/1nK5KDnTTRz_lLjd1nRpji4aY9lDwBeoW)
 ## My test documentation:
 ## Forex Project:
 - [Forex Test-Cases](https://docs.google.com/spreadsheets/d/1rXJpgJXrE8V4ku9viwPdePHrG9MIepsSLmdNCcKwbgw/edit#gid=0)
