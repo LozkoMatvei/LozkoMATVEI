@@ -10,4 +10,6 @@
 ## Also:
 - [Test-result report](https://docs.google.com/document/d/1mqhfjpDjTn6-h02UVifR2cg1NzoYTJIj/edit)
 - [Check-list](https://docs.google.com/spreadsheets/d/1DH1bbs8dhHYfA9p1DMZkocY49-SnQJQLggR6l5s815k/edit#gid=0)
+## homework: XML and json formats
+- [XML and json fornats](https://drive.google.com/drive/u/2/folders/1y3OOuqUOxD4P3i9SQiKxucLBVmakET2b)
 
